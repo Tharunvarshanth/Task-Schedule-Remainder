@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309715244101",
+    "project_id": "task-remainder-db57e",
+    "storage_bucket": "task-remainder-db57e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309715244101:android:2d8d547dd7cdb3c2c4ff2c",
+        "android_client_info": {
+          "package_name": "com.tvk.taskremainder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309715244101-ovcqm2vs6li974m5bf4gq4a8c99coqid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkhBYLGZPs3H82J1UnfnrZTPfvZ8ZVugk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309715244101-ovcqm2vs6li974m5bf4gq4a8c99coqid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
